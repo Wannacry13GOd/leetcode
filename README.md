@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Wannacry13GOd/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Wannacry13GOd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Wannacry13GOd/leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Wannacry13GOd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Wannacry13GOd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Wannacry13GOd/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
