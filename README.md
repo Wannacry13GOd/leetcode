@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Wannacry13GOd/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Wannacry13GOd/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Wannacry13GOd/leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Wannacry13GOd/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Wannacry13GOd/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
