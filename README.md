@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Wannacry13GOd/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Wannacry13GOd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Wannacry13GOd/leetcode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Wannacry13GOd/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Wannacry13GOd/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Wannacry13GOd/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Wannacry13GOd/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Wannacry13GOd/leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Wannacry13GOd/leetcode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Wannacry13GOd/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Wannacry13GOd/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
