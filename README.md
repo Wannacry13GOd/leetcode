@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Wannacry13GOd/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Wannacry13GOd/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Wannacry13GOd/leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Wannacry13GOd/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Wannacry13GOd/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
