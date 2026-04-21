@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Wannacry13GOd/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Wannacry13GOd/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Wannacry13GOd/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Wannacry13GOd/leetcode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Wannacry13GOd/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
